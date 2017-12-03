@@ -1,0 +1,2 @@
+# GNOMA
+Generalized NOMA
